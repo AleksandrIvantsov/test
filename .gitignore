@@ -1,3 +1,6 @@
+# My ignors
+.prettierrc.json
+
 # Logs
 logs
 *.log
