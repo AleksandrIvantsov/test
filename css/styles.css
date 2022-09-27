@@ -11,3 +11,31 @@ body {
 	background-color: #fff;
 	margin-bottom: 10px;
 }
+
+p {
+	color: red;
+	font-size: 20px;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	list-style: none;
+	color: green;
+}
+
+.rule {
+	list-style: upper-roman;
+	color: navy;
+}
+
+.first-rule {
+	color: red;
+}
+
+.last-rule {
+	color: green;
+}
